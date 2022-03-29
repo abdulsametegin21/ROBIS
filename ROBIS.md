@@ -34,7 +34,9 @@ Otonomasyon  arayüzü tasarımı ( Cebrail YILDIRIM )
 # Check list
 
 Cebrail YILDIRIM
+
 {
+
 Robotun ana yazılımı(15.06.2022)
 
 Robotun hareketi için olan yazılımı(15.05.2022)
