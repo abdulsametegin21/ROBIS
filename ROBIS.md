@@ -57,7 +57,9 @@ Robotun hareketi için olan yazılımı(15.05.2022)
 Otonomasyon  arayüzü tasarımı(12.05.2022)
 
 }
+
 Abdulsamet EGİN
+
 {
 
 Robotun Otomasyonu(12.05.2022)
