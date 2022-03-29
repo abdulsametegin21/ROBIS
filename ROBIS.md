@@ -67,4 +67,4 @@ Veritabanı tablolarının oluşturulması(24.05.2022)
   
 }
 
-
+vhhschgscvbsvcds
