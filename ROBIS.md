@@ -12,3 +12,36 @@ Turistik ve kültürel alanlarda kimi zaman yardımcı isteyebiliyoruz veya bize
 # USE CASE DİYAGRAMI
 
 ![Ekran görüntüsü 2022-03-15 171450](https://user-images.githubusercontent.com/100835954/158406406-22519738-1b98-4db6-8ec8-d82dae450548.jpg)
+
+# Kullanılacak Diller
+Ardunio
+
+C# // Otonomasyon için
+
+
+# İş Dağılımı 
+ 
+Robotun ana yazılımı  ( Cebrail YILDIRIM )
+
+Robotun hareketi için olan yazılımı ( Cebrail YILDIRIM )
+
+Robotun Otomasyonu (Abdulsamet EGIN)
+
+Veritabanı tablolarının oluşturulması (Abdulsamet EGIN)
+
+Otonomasyon  arayüzü tasarımı ( Cebrail YILDIRIM )
+
+# Check list
+
+Cebrail YILDIRIM
+{
+Robotun ana yazılımı(15.06.2022)
+
+Robotun hareketi için olan yazılımı(15.05.2022)
+
+Otonomasyon  arayüzü tasarımı(12.05.2022)
+
+}
+
+
+
